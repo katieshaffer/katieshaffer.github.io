@@ -1,7 +1,7 @@
 ### About Me
-With over 10 years of experience in data analysis, I am passionate about transforming data into insights. My background is in healthcare analytics.
+With over 10 years of experience in data analysis, I am passionate about transforming data into actionable insights.
 
-### Links
+### My Links
 * [LinkedIn](https://www.linkedin.com/in/katieeaton/)
 * [Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641)
 * [Tableau](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
@@ -20,21 +20,20 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 
 ### Work Experience
 
-Lead Data Analyst at [Wellthy](www.wellthy.com) (2024 - present)
+##### *Wellthy*
 
-Senior Data Analyst at [Wellthy](www.wellthy.com) (2022 - 2023)
+* Lead Data Analyst (2024 - present)
+* Senior Data Analyst (2022 - 2023)
 
-Senior Business Analyst - Reporting at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) (2019-2022)
+##### *LexisNexis Risk Solutions*
+* Senior Business Analyst - Reporting (2019-2022)
+* Business Analyst Implementation Lead (2016-2019)
+* Client Services Analyst (2014-2016)
 
-Business Analyst Implementation Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) (2016-2019)
-
-Client Services Analyst at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) (2014-2016)
-
-Principal Data Analyst at [Decision Resources Group](www.decisionresourcesgroup.com) (2013-2014)
-
-Senior Data Analyst at [Decision Resources Group](www.decisionresourcesgroup.com) (2012-2013)
-
-Market Research Analyst at [Decision Resources Group](www.decisionresourcesgroup.com) (2011)
+##### *Decision Resources Group*
+* Principal Data Analyst (2013-2014)
+* Senior Data Analyst (2012-2013)
+* Market Research Analyst (2011)
 
 ### Education
 * B.A. in Psychology from James Madison University
