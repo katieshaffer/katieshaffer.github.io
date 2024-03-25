@@ -19,6 +19,7 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 * Management
 
 ### Work Experience
+![Career Timeline](https://github.com/katieshaffer/katieshaffer.github.io/assets/104028216/63cad04d-f2cd-46c4-97f7-4cb424776dde)
 
 ##### *Wellthy*
 
