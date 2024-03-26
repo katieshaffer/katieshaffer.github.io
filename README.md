@@ -4,7 +4,6 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 ### My Links
 * [LinkedIn](https://www.linkedin.com/in/katieeaton/)
 * [Project Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641)
-* [GitHub](https://github.com/katieshaffer)
 * [Tableau](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
 
 ### Technical Skills
