@@ -8,7 +8,7 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 * [Tableau](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
 
 ### Technical Skills
-* SQL, dbt, Fivetran, Snoflake, GitHub, Hightouch, Snowplow
+* SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch, Snowplow (product analytics tool)
 * Business intelligence tools: Tableau, PowerBI, Mode, ThoughtSpot
 
 ### Non-Technical Skills
