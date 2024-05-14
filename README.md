@@ -23,7 +23,7 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 
 ##### *Wellthy*
 
-* Lead Data Analyst (2024 - present)
+* Lead Data Analyst (2024)
 * Senior Data Analyst (2022 - 2023)
 
 ##### *LexisNexis Risk Solutions*
