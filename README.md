@@ -21,6 +21,9 @@ With over 10 years of experience in data analysis, I am passionate about transfo
 
 ### Work Experience
 
+##### *Scan.com*
+* Senior Data Analyst (2024-present)
+
 ##### *Wellthy*
 
 * Lead Data Analyst (2024)
