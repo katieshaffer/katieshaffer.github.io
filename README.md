@@ -4,7 +4,6 @@ I have over 13 years of experience in Data, mostly in the healthcare industry. I
 ### My Links
 * [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/)
 * [Data Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641)
-* [GitHub](https://github.com/katieshaffer)
 * [Tableau](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
 
 ### Technical Skills
@@ -33,7 +32,3 @@ I am currently a Senior Data Analyst at Scan.com, a platform that makes medical 
 * Principal Data Analyst (2013-2014)
 * Senior Data Analyst (2012-2013)
 * Market Research Analyst (2011)
-
-### Education
-* B.A. in Psychology from James Madison University
-* M.S. in Psychology from Villanova University
