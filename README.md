@@ -1,6 +1,5 @@
 ### About Me
 I have over 13 years of experience in Data, mostly in the healthcare industry. I take a highly collaborative approach to analytics and believe that a solid understanding of the business is crucial in order to provide valuable insights.
-Please see below for information about my experience, as well as examples of my work.
 
 ### My Links
 * [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/)
@@ -11,14 +10,6 @@ Please see below for information about my experience, as well as examples of my 
 ### Technical Skills
 * SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch, Snowplow (product analytics tool)
 * Business intelligence tools: Tableau, PowerBI, Mode, ThoughtSpot, Zoho Analytics
-
-### Non-Technical Skills
-* Data analysis, transformation, and visualization
-* Healthcare data including medical claims
-* Stakeholder collaboration
-* Process improvement and automation
-* Quality assurance
-* People management
 
 ### Current Role
 
