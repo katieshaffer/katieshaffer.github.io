@@ -14,18 +14,4 @@ I am a Senior Data Analyst at Scan.com. As the company's first full-time Data em
 * Collaborating with stakeholders to establish outcome-based metrics supporting company objectives
 
 ### Previous Roles
-Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for more details on each role below.
-
-##### *Wellthy (2022 - 2024)*
-* Lead Data Analyst
-* Senior Data Analyst
-
-##### *LexisNexis Risk Solutions (2014 - 2022)*
-* Senior Business Analyst - Reporting
-* Business Analyst Implementation Lead
-* Client Services Analyst
-
-##### *Decision Resources Group (2011 - 2014)*
-* Principal Data Analyst
-* Senior Data Analyst
-* Market Research Analyst
+Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
