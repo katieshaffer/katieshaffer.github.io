@@ -3,11 +3,13 @@
 @import "{{ site.theme }}";
 header {
   img {
-    border-radius: 50%;
-    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
   }
   p {
-    text-align: center;
+    text-align: left;
   }
   p.view {
     text-align: left;
