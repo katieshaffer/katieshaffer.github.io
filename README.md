@@ -16,4 +16,4 @@ I am a Senior Data Analyst at Scan.com. As the company's first full-time Data em
 ### Previous Roles
 Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
 
-![Career timeline](/katieshaffer.github.io/assets/Career_Timeline.png)
+![Career timeline](./assets/Career_Timeline.png)
