@@ -4,11 +4,12 @@ I have over 13 years of experience in Data, mostly in the healthcare industry. I
 ### My Links
 * [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/)
 * [Data Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641)
-* [Tableau](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
+* [Tableau Public Profile](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
 
 ### Technical Skills
-* SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch, Snowplow (product analytics tool)
+* SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch
 * Business intelligence tools: Tableau, PowerBI, Mode, ThoughtSpot, Zoho Analytics
+* Product analytics tools: Heap, Snowplow, Indicative (mParticle Analytics)
 
 ### Current Role
 
@@ -18,17 +19,18 @@ I am currently a Senior Data Analyst at Scan.com, a platform that makes medical 
 * Collaborating with stakeholders to establish outcome-based metrics supporting company objectives
 
 ### Previous Roles
+Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for more details on each role below.
 
 ##### *Wellthy (2022 - 2024)*
-* Lead Data Analyst (2024)
-* Senior Data Analyst (2022 - 2023)
+* Lead Data Analyst
+* Senior Data Analyst
 
 ##### *LexisNexis Risk Solutions (2014 - 2022)*
-* Senior Business Analyst - Reporting (2019-2022)
-* Business Analyst Implementation Lead (2016-2019)
-* Client Services Analyst (2014-2016)
+* Senior Business Analyst - Reporting
+* Business Analyst Implementation Lead
+* Client Services Analyst
 
 ##### *Decision Resources Group (2011 - 2014)*
-* Principal Data Analyst (2013-2014)
-* Senior Data Analyst (2012-2013)
-* Market Research Analyst (2011)
+* Principal Data Analyst
+* Senior Data Analyst
+* Market Research Analyst
