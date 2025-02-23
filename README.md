@@ -2,9 +2,7 @@
 I have over 13 years of experience in Data, mostly in the healthcare industry. I take a highly collaborative approach to analytics and believe that a solid understanding of the business is crucial in order to provide valuable insights.
 
 ### My Links
-* [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/)
-* [Data Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641)
-* [Tableau Public Profile](https://public.tableau.com/app/profile/katie.shaffer/vizzes)
+[LinkedIn](https://www.linkedin.com/in/katieshaffer/) | [Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641) | [GitHub](https://github.com/katieshaffer?tab=repositories)
 
 ### Technical Skills
 * SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch
@@ -13,7 +11,7 @@ I have over 13 years of experience in Data, mostly in the healthcare industry. I
 
 ### Current Role
 
-I am currently a Senior Data Analyst at Scan.com, a platform that makes medical imaging easier for patients. As the company's first full-time Data employee, my focus is on:
+I am a Senior Data Analyst at Scan.com. As the company's first full-time Data employee, my focus is on:
 * Establishing data processes and tools
 * Overseeing and maintaining the end-to-end data pipeline using Fivetran, dbt, Tableau, and other tools
 * Collaborating with stakeholders to establish outcome-based metrics supporting company objectives
