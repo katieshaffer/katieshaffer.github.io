@@ -1,9 +1,6 @@
 ### About Me
 I have over 13 years of experience in Data, mostly in the healthcare industry. I take a highly collaborative approach to analytics and believe that a solid understanding of the business is crucial in order to provide valuable insights.
 
-### My Links
-[LinkedIn](https://www.linkedin.com/in/katieshaffer/) | [Portfolio](https://mavenanalytics.io/profile/Katie-Shaffer/194618641) | [GitHub](https://github.com/katieshaffer?tab=repositories)
-
 ### Technical Skills
 * SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch
 * Business intelligence tools: Tableau, PowerBI, Mode, ThoughtSpot, Zoho Analytics
