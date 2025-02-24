@@ -17,7 +17,7 @@ I am a Senior Data Analyst at Scan.com. As the company's first full-time Data em
 Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
 
 ### Examples of Work
-Please visit my [Portfolio](https://mavenanalytics.io/profile/78b13390-a0c1-7060-14be-1037c71dc501) to see examples of my work.
+Please visit my [GitHub profile](https://github.com/katieshaffer) and [Portfolio](https://mavenanalytics.io/profile/78b13390-a0c1-7060-14be-1037c71dc501) to see examples of my work.
 
 Click below to view a blog post summarizing a project where I used dbt, Snowflake, GitHub, and data visualization tools.
 
