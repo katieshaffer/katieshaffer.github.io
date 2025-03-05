@@ -1,4 +1,7 @@
 ### About Me
+
+Over time, my responsibilities as a Data Analyst have expanded to include analytics engineering, as well as aspects of data engineering.
+
 I am currently a Senior Data Analyst at Scan.com. As the company's first full-time Data employee, my focus is on:
 * Establishing data processes and tools
 * Overseeing and maintaining the end-to-end data pipeline using Fivetran, dbt, Tableau, and other tools
