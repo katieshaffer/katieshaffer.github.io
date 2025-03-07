@@ -19,4 +19,4 @@ Please visit my [GitHub profile](https://github.com/katieshaffer) and [Data Port
 
 Below is a blog post highlighting a data modeling and visualization project where I used dbt, Snowflake, GitHub, and data visualization tools.
 
-[<img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQHlwswLQWh6kQ/articleshare-shrink_800/articleshare-shrink_800/0/1712265754843?e=1740963600&v=beta&t=tzddD4Yu-xu2hl1sEdNsMIDFdaBnDPILGFQWQHrqovk" height="250" />](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey)
+[<img src="https://github.com/katieshaffer/katieshaffer.github.io/blob/main/assets/Blog%20Post.png" height="250" />](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey)
