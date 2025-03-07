@@ -7,7 +7,7 @@ I am currently a Senior Data Analyst at Scan.com. As the company's first full-ti
 * Establishing scalable and efficient data processes
 * Collaborating with stakeholders to establish company metrics
 
-Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
+Please visit my [LinkedIn](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
 
 ### Technical Skills
 * SQL, dbt, Fivetran, Snowflake, GitHub, Hightouch
@@ -15,8 +15,8 @@ Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) fo
 * Product analytics tools: Heap, Snowplow, Indicative (mParticle Analytics)
 
 ### Examples of Work
-Please visit my [GitHub](https://github.com/katieshaffer) and [Data Portfolio](https://mavenanalytics.io/profile/78b13390-a0c1-7060-14be-1037c71dc501) to see examples of my work.
+Please visit my [GitHub](https://github.com/katieshaffer) and [Data Portfolio](https://mavenanalytics.io/profile/78b13390-a0c1-7060-14be-1037c71dc501) to view examples of my work.
 
-[Here](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey) is a blog post highlighting a  project where I used dbt, Snowflake, GitHub, and data visualization tools.
+[Here](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey) is a blog post highlighting a data modeling and visualization project of mine.
 
 [<img src="./assets/Blog%20Post.png" height="250" />](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey)
