@@ -17,6 +17,6 @@ Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) fo
 ### Examples of Work
 Please visit my [GitHub profile](https://github.com/katieshaffer) and [Data Portfolio](https://mavenanalytics.io/profile/78b13390-a0c1-7060-14be-1037c71dc501) to see examples of my work.
 
-Below is a blog post highlighting a data modeling and visualization project where I used dbt, Snowflake, GitHub, and data visualization tools.
+[Here](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey) is a blog post highlighting a  project where I used dbt, Snowflake, GitHub, and data visualization tools.
 
-[<img src="https://github.com/katieshaffer/katieshaffer.github.io/blob/main/assets/Blog%20Post.png" height="250" />](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey)
+[<img src="./assets/Blog%20Post.png" height="250" />](https://www.paradime.io/blog/charting-nba-histories-katie-shaffers-analytical-journey)
