@@ -5,7 +5,7 @@ Over time, my responsibilities as a Data Analyst have expanded to include analyt
 I am currently a Senior Data Analyst at Scan.com. As the company's first full-time Data employee, my focus is on:
 * Overseeing and maintaining the end-to-end data pipeline using Fivetran, dbt, Tableau, and other tools
 * Establishing scalable and efficient data processes
-* Collaborating with stakeholders to establish outcome-based metrics supporting company objectives
+* Collaborating with stakeholders to establish company metrics
 
 Please visit my [LinkedIn Profile](https://www.linkedin.com/in/katieshaffer/) for details on my prior roles.
 
